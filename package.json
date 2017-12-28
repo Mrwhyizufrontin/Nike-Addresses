@@ -1,0 +1,17 @@
+{
+  "name": "nike-addresses",
+  "version": "1.0.0",
+  "description": "add billing and shipping info to nike accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@_zruss_",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "uuid": "^3.1.0"
+  }
+}

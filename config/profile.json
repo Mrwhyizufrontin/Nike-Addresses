@@ -1,0 +1,15 @@
+{
+    "firstName" : "Pee",
+    "lastName" : "Poo",
+    "address" : "6969 Squirtle Street",
+    "apt" : "Room 11",
+    "city" : "New York",
+    "state" : "NY",
+    "zip" : "10010",
+    "phone" : "4043909381",
+    "cardType" : "VISA",
+    "cardNumber" : "4384239174552410",
+    "expiryMonth" : 12,
+    "expiryYear" : 2026,
+    "cvv" : "404"
+  }
