@@ -4,7 +4,7 @@ Mass Add Billing and Shipping information to Nike Accounts.
 
 ## Installation
 
-Requires [Node.js](ttp://nodejs.org/)
+Requires [Node.js](http://nodejs.org/).
 
 Setup:
 
